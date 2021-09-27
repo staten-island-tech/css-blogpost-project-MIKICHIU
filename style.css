@@ -1,8 +1,15 @@
 body {
-  background-color: rgb(94, 126, 110);
-  color: rgb(61, 87, 72);
+  background-color: rgb(122, 153, 137);
+  color: rgb(81, 107, 92);
   font-size: 20px;
+  font-family: "Stick No Bills", sans-serif;
 }
 h1 {
-  color: rgb(55, 73, 57);
+  color: rgb(70, 92, 73);
+}
+.main-header {
+  text-align: center;
+}
+#body {
+  color: black;
 }
